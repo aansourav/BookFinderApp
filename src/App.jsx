@@ -16,8 +16,12 @@ function App() {
   };
 
   const handleSearch = (searchText) => {
-    const searchedBooks = books.filter((book) => book.title.toLowerCase().includes(searchText.toLowerCase()));
-    setBooks([...searchedBooks]);
+    if (searchText) {
+      const searchedBooks = books.filter((book) =>
+        book.title.toLowerCase().includes(searchText.toLowerCase())
+      );
+      setBooks([...searchedBooks]);
+    } else setBooks(bookData);
   };
 
   return (
