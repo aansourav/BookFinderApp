@@ -2,9 +2,9 @@ import React from "react";
 
 const Sorting = () => {
   return (
-    <div class="flex items-stretch space-x-3">
+    <div className="flex items-stretch space-x-3">
       <select
-        class="cursor-pointer rounded-md border px-4 py-2 text-center text-gray-600"
+        className="cursor-pointer rounded-md border px-4 py-2 text-center text-gray-600"
         name="sortBy"
         id="sortBy"
       >

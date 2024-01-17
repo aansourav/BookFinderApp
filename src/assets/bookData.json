@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1a2b3c4d",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "price": 45,
+    "star": 4,
+    "yearOfPublish": 2015,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg/640px-To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg",
+    "isFavourite": true
+  },
+  {
+    "id": "5e6f7g8h",
+    "title": "1984",
+    "author": "George Orwell",
+    "price": 30,
+    "star": 5,
+    "yearOfPublish": 1949,
+    "thumbnail": "https://m.media-amazon.com/images/I/41gH8Q32oFL.jpg",
+    "isFavourite": false
+  },
+  {
+    "id": "9i0j1k2l",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "price": 20,
+    "star": 4,
+    "yearOfPublish": 1925,
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/61z0MrB6qOS._AC_UL600_SR600,600_.jpg",
+    "isFavourite": false
+  },
+  {
+    "id": "3m4n5o6p",
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "price": 28,
+    "star": 3,
+    "yearOfPublish": 1951,
+    "thumbnail": "https://m.media-amazon.com/images/I/91ycNzZu1mL._AC_UF1000,1000_QL80_.jpg",
+    "isFavourite": false
+  },
+  {
+    "id": "7q8r9s0t",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "price": 35,
+    "star": 5,
+    "yearOfPublish": 1937,
+    "thumbnail": "https://m.media-amazon.com/images/I/71k--OLmZKL._AC_UF894,1000_QL80_.jpg",
+    "isFavourite": false
+  },
+  {
+    "id": "2u3v4w5x",
+    "title": "Harry Potter",
+    "author": "J.K. Rowling",
+    "price": 40,
+    "star": 4,
+    "yearOfPublish": 1997,
+    "thumbnail": "https://ew.com/thmb/RNSjDY3vXsAmYPgvzNG-SbZibYo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/minalima_hp1_flat_compressed-f9e6bda269a545a28f8bd9e50ed5f70b.jpg",
+    "isFavourite": false
+  },
+  {
+    "id": "6y7z8a9b",
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "price": 25,
+    "star": 5,
+    "yearOfPublish": 2008,
+    "thumbnail": "https://www.thebookshop.es/productimages/1200/the-hunger-games---suzanne-collins_269889.jpg",
+    "isFavourite": false
+  },
+  {
+    "id": "1c2d3e4f",
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "price": 32,
+    "star": 4,
+    "yearOfPublish": 2003,
+    "thumbnail": "https://m.media-amazon.com/images/I/71y4X5150dL._AC_UF1000,1000_QL80_.jpg",
+    "isFavourite": false
+  },
+  {
+    "id": "5g6h7i8j",
+    "title": "The Girl with the Dragon",
+    "author": "Stieg Larsson",
+    "price": 18,
+    "star": 5,
+    "yearOfPublish": 2005,
+    "thumbnail": "https://miro.medium.com/v2/resize:fit:510/1*wO5mTG4656JMXR2RyqdhDQ.jpeg",
+    "isFavourite": false
+  },
+  {
+    "id": "9k0l1m2n",
+    "title": "The Fault in Our Stars",
+    "author": "John Green",
+    "price": 22,
+    "star": 4,
+    "yearOfPublish": 2012,
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660273739i/11870085.jpg",
+    "isFavourite": false
+  }
+]

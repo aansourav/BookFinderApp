@@ -1,17 +1,17 @@
-import React from 'react';
-import star from '../../assets/star.svg'
+import React from "react";
+import starIcon from "../../assets/star.svg";
 
-const Stars = () => {
-    return (
-      <div className="flex items-center space-x-1">
-        <img src={star} />
-        <img src={star} />
-        <img src={star} />
-        <img src={star} />
-        
-        <span className="text-xs lg:text-sm">(4 Star)</span>
-      </div>
-    );
+const Stars = ({ stars }) => {
+  const renderedComponents = Array.from({ length: stars }, (value, index) => (
+    <img src={starIcon} key={index} />
+  ));
+  return (
+    <div className="flex items-center space-x-1">
+      {renderedComponents}
+
+      <span className="text-xs lg:text-sm">({stars} Star)</span>
+    </div>
+  );
 };
 
 export default Stars;
