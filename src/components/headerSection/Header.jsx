@@ -2,7 +2,7 @@ import React from "react";
 import SearchBox from "./SearchBox";
 import Sorting from "./Sorting";
 
-const Header = ({ handleSearch }) => {
+const Header = ({ handleSearch, handleSort }) => {
   return (
     <header className="mb-8 lg:mb-10 mx-auto max-w-7xl">
       <div className="mx-auto flex items-end justify-between max-md:max-w-[95%] max-md:flex-col max-md:items-start max-md:space-y-4">
@@ -15,7 +15,7 @@ const Header = ({ handleSearch }) => {
           <SearchBox handleSearch={handleSearch} />
         </div>
 
-        <Sorting />
+        <Sorting handleSort={handleSort} />
       </div>
     </header>
   );

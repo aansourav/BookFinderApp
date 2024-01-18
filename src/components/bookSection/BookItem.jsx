@@ -10,7 +10,9 @@ const BookItem = ({ book, handleFavourite }) => {
       <BookThumbnail thumbnail={book.thumbnail} />
 
       <div className="space-y-3">
-        <h4 className="text-lg font-bold lg:text-xl">{book.title}</h4>
+        <h4 className="text-lg font-bold lg:text-xl">
+          {book.title} <div> ({book.yearOfPublish})</div>
+        </h4>
         <p className="text-xs lg:text-sm">
           By : <span>{book.author}</span>
         </p>

@@ -7,7 +7,7 @@
     "star": 4,
     "yearOfPublish": 2015,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg/640px-To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg",
-    "isFavourite": true
+    "isFavourite": false
   },
   {
     "id": "5e6f7g8h",
@@ -17,7 +17,7 @@
     "star": 5,
     "yearOfPublish": 1949,
     "thumbnail": "https://m.media-amazon.com/images/I/41gH8Q32oFL.jpg",
-    "isFavourite": false
+    "isFavourite": true
   },
   {
     "id": "9i0j1k2l",
@@ -37,7 +37,7 @@
     "star": 3,
     "yearOfPublish": 1951,
     "thumbnail": "https://m.media-amazon.com/images/I/91ycNzZu1mL._AC_UF1000,1000_QL80_.jpg",
-    "isFavourite": false
+    "isFavourite": true
   },
   {
     "id": "7q8r9s0t",
@@ -57,7 +57,7 @@
     "star": 4,
     "yearOfPublish": 1997,
     "thumbnail": "https://ew.com/thmb/RNSjDY3vXsAmYPgvzNG-SbZibYo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/minalima_hp1_flat_compressed-f9e6bda269a545a28f8bd9e50ed5f70b.jpg",
-    "isFavourite": false
+    "isFavourite": true
   },
   {
     "id": "6y7z8a9b",

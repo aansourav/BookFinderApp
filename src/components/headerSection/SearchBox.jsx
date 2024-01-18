@@ -1,12 +1,12 @@
 import React, { useState } from "react";
 
 const SearchBox = ({ handleSearch }) => {
+  
   const [searchText, setSearchText] = useState("");
 
   const handleSearchClick = (e) => {
     e.preventDefault();
     handleSearch(searchText);
-    // console.log(searchText)
   };
 
   return (
