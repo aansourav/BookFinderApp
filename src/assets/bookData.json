@@ -98,5 +98,126 @@
     "yearOfPublish": 2012,
     "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660273739i/11870085.jpg",
     "isFavourite": false
+  },
+
+  {
+    "id": "3o4p5q6r",
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "price": 28,
+    "star": 4,
+    "yearOfPublish": 1932,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/62/BraveNewWorld_FirstEdition.jpg",
+    "isFavourite": false
+  },
+  {
+    "id": "7s8t9u0v",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "price": 24,
+    "star": 5,
+    "yearOfPublish": 1813,
+    "thumbnail": "https://theperksofbeingnourablog.files.wordpress.com/2021/01/pride-and-prejudice-barnes-noble-collectible-editions-1.jpg",
+    "isFavourite": true
+  },
+  {
+    "id": "2w3x4y5z",
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "price": 50,
+    "star": 5,
+    "yearOfPublish": 1954,
+    "thumbnail": "https://harpercollins.co.uk/cdn/shop/products/x500_28f2a4bd-d1a6-49b4-b504-2ee8b7400c99.jpg?v=1702458273&width=350",
+    "isFavourite": true
+  },
+  {
+    "id": "6a7b8c9d",
+    "title": "The Shining",
+    "author": "Stephen King",
+    "price": 32,
+    "star": 4,
+    "yearOfPublish": 1977,
+    "thumbnail": "https://prodimage.images-bn.com/pimages/9780345806789_p0_v2_s1200x630.jpg",
+    "isFavourite": false
+  },
+  {
+    "id": "1e2f3g4h",
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "price": 26,
+    "star": 4,
+    "yearOfPublish": 1847,
+    "thumbnail": "https://images.squarespace-cdn.com/content/v1/5b19552831d4df0c23869b60/1534516312827-LJIUOECDIVGOIV7SJCZ6/JaneEyre.jpg",
+    "isFavourite": false
+  },
+  {
+    "id": "5i6j7k8l",
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "price": 22,
+    "star": 5,
+    "yearOfPublish": 1988,
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654371463i/18144590.jpg",
+    "isFavourite": true
+  },
+  {
+    "id": "9m0n1o2p",
+    "title": "The Chronicles of Narnia",
+    "author": "C.S. Lewis",
+    "price": 38,
+    "star": 4,
+    "yearOfPublish": 1950,
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1661032875i/11127.jpg",
+    "isFavourite": false
+  },
+  {
+    "id": "3q4r5s6t",
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "price": 34,
+    "star": 3,
+    "yearOfPublish": 1851,
+    "thumbnail": "https://mpd-biblio-covers.imgix.net/9781509826643.jpg",
+    "isFavourite": true
+  },
+  {
+    "id": "7u8v9w0x",
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "price": 26,
+    "star": 4,
+    "yearOfPublish": 2006,
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/51M7XGLQTBL._AC_UL600_SR600,600_.jpg",
+    "isFavourite": false
+  },
+  {
+    "id": "2y3z4a5b",
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "price": 30,
+    "star": 4,
+    "yearOfPublish": 1818,
+    "thumbnail": "https://m.media-amazon.com/images/I/71hCBEMpQ0L._AC_UF1000,1000_QL80_.jpg",
+    "isFavourite": false
+  },
+  {
+    "id": "6c7d8e9f",
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "price": 25,
+    "star": 4,
+    "yearOfPublish": 1847,
+    "thumbnail": "https://hauntedhearts.files.wordpress.com/2012/11/wuthering-heights.jpg",
+    "isFavourite": true
+  },
+  {
+    "id": "1g2h3i4j",
+    "title": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "price": 36,
+    "star": 5,
+    "yearOfPublish": 1844,
+    "thumbnail": "https://m.media-amazon.com/images/I/51fIrJcGO0L.jpg",
+    "isFavourite": false
   }
 ]
