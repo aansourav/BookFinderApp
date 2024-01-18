@@ -1,14 +1,13 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 
 const Sorting = ({ handleSort }) => {
   const [sortBy, setSortBy] = useState("");
 
   const handleSortChange = (e) => {
-    setSortBy(e.target.value);
+    const newSortBy = e.target.value;
+    setSortBy(newSortBy);
+    handleSort(newSortBy);
   };
-  useEffect(() => {
-    handleSort(sortBy);
-  }, [sortBy]);
 
   return (
     <div className="flex items-stretch space-x-3">

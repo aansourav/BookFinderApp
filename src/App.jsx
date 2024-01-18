@@ -25,6 +25,7 @@ function App() {
   };
 
   const handleSort = (sortBy) => {
+    console.log(sortBy);
     const booksToSort = [...books];
 
     if (sortBy) {
